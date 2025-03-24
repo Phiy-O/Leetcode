@@ -1,2 +1,2 @@
-# Leetcode-Js
-Javascript Leetcode Andika
+# Leetcode
+Leetcode Andika
