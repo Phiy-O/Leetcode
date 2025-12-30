@@ -1,7 +1,7 @@
 # Leetcode
 🚀 LeetCode Journey
 
-<p align="center>
+<p align="center">
   <img 
     src="leetcode-profile.png" 
     alt="Phiy-O Cover" 
