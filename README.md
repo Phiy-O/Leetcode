@@ -2,7 +2,11 @@
 🚀 LeetCode Journey
 
 <p align="center>
-  <img src="leetcode-profile.png" alt="leetcode-profile" >
+  <img 
+    src="leetcode-profile.png" 
+    alt="Phiy-O Cover" 
+    width="100%"
+  />
 </p>
 
 Repository ini berisi kumpulan solusi LeetCode yang aku kerjakan sebagai bagian dari proses belajar dan melatih problem solving, algoritma, dan logika pemrograman.
