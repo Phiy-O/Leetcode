@@ -1,6 +1,5 @@
 // 28. Find the Index of the First Occurrence in a String - EASY
 var merge = function(nums1, m, nums2, n) {
-    let arrLength = m + n;
     let i = 0;
     let j = 0;
 
